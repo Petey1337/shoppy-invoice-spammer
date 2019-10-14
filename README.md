@@ -26,7 +26,7 @@ Run the file **run.bat**
 
 Once you run **run.bat** you will enter the ending characters of a product
 
-~~ https://shoppy.gg/product/ ~~ **BhjJd3C**
+~~shoppy.gg/product/~~**BhjJd3C**
 
 ## Contact
 
