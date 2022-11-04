@@ -36,7 +36,7 @@ prompt.get(['product', 'times'], function(err, result) {
                     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36',
                     'content-type': 'application/json;charset=UTF-8',
                     'accept': 'application/json, text/plain, */*',
-                    'vary': 'Accept-Encoding',
+                    'vary': 'Accept-Encoding'
                 },
                 body: {
                     'email': random + '@' + mail,
